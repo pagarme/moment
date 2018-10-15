@@ -1,0 +1,16 @@
+{
+  "name": "moment-sao-paulo",
+  "version": "0.0.1",
+  "description": "A lib to proxy moment as America/Sao_Paulo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pagarme/moment-sao-paulo.git"
+  },
+  "author": "Pagar.me Pagamentos S/A <@pagarme>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21"
+  }
+}
