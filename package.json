@@ -1,5 +1,5 @@
 {
-  "name": "moment-sao-paulo",
+  "name": "moment",
   "version": "0.0.1",
   "description": "A lib to proxy moment as America/Sao_Paulo",
   "main": "index.js",
