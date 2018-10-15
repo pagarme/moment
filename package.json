@@ -5,12 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:pagarme/moment-sao-paulo.git"
+    "url": "git@github.com:pagarme/moment.git"
   },
   "author": "Pagar.me Pagamentos S/A <@pagarme>",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.22.2",
-    "moment-timezone": "^0.5.21"
+    "moment-timezone": "0.5.21"
   }
 }
