@@ -10,6 +10,6 @@
   "author": "Pagar.me Pagamentos S/A <@pagarme>",
   "license": "ISC",
   "dependencies": {
-    "moment-timezone": "0.5.21"
+    "moment-timezone": "0.5.23"
   }
 }
