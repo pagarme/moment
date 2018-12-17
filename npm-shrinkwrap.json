@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "moment-timezone": {
+      "version": "0.5.23",
+      "from": "moment-timezone@0.5.23",
+      "dependencies": {
+        "moment": {
+          "version": "2.19.0",
+          "from": "moment@2.19.0"
+        }
+      }
+    }
+  }
+}
