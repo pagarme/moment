@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "moment-timezone": {
-      "version": "0.5.23",
-      "from": "moment-timezone@0.5.23",
+      "version": "0.5.26",
+      "from": "moment-timezone@0.5.26",
       "dependencies": {
         "moment": {
           "version": "2.23.0",
