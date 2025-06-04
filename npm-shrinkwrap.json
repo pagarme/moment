@@ -27,7 +27,7 @@
       "integrity": "sha512-ldA5lRNm3iJCWZcBCab4pnNL3HSZYXVb/3TYr75/1WCTWYuTqYUb5f/S384pncYjJ88lbO8Z4uPDvmoluHJc8Q==",
       "license": "MIT",
       "dependencies": {
-        "moment": "^2.29.4"
+        "moment": "2.30.1"
       },
       "engines": {
         "node": "*"
