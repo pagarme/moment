@@ -1,5 +1,5 @@
 {
-  "name": "moment",
+  "name": "@pagarme/moment",
   "version": "0.0.6",
   "description": "A lib to proxy moment as America/Sao_Paulo",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "Pagar.me Pagamentos S/A <@pagarme>",
   "license": "ISC",
   "dependencies": {
+    "moment": "2.30.1",
     "moment-timezone": "^0.6.0"
   },
   "overrides": {
