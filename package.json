@@ -1,6 +1,6 @@
 {
   "name": "moment",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A lib to proxy moment as America/Sao_Paulo",
   "main": "index.js",
   "repository": {
@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "moment-timezone": "^0.6.0"
+  },
+  "overrides": {
+    "moment": "^2.30.1"
   }
 }
