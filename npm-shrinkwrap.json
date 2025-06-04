@@ -1,14 +1,15 @@
 {
-  "name": "moment",
+  "name": "@pagarme/moment",
   "version": "0.0.6",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "moment",
+      "name": "@pagarme/moment",
       "version": "0.0.6",
       "license": "ISC",
       "dependencies": {
+        "moment": "2.30.1",
         "moment-timezone": "^0.6.0"
       }
     },
